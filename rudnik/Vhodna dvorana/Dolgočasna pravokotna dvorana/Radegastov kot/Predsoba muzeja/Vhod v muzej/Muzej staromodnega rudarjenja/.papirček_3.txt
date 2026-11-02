@@ -1,0 +1,21 @@
+--------------------------------------
+    _______________________
+  =(__    ___      __     _)=
+    |                     |
+    |        ____         |
+    |       |___ \        |
+    |         __) |       |
+    |        |__ <        |
+    |        ___) |       |
+    |       |____/        |
+    |                     |
+    |__    ___   __    ___|
+  =(_______________________)=
+
+--------------------------------------
+
+Ta listek je bil dobro skrit: ls ga ne pokaže,
+ker se njegovo ime začne s piko.
+Skupaj z ostalimi tremi se sporočilo glasi 1234.
+To je Otgrarjevo geslo za amulet.
+Nekdo bi mu moral kaj povedati o varnosti.
